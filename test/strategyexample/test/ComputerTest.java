@@ -23,7 +23,7 @@ public class ComputerTest extends TestCase {
 		assertEquals(expected, result);
 	}
 	
-	public void testIfResultIs9When3Sum3(){
+	public void testIfResultIs9When3Multiplication3(){
 		double expected = 9;
 		
 		computer = new Computer(3, 3, new Multiplication());
