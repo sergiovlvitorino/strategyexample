@@ -15,7 +15,7 @@ public class MultiplicationTest extends TestCase{
 		assertEquals(expected, result);
 	}
 	
-	public void testIf2Multiply2Equal9(){
+	public void testIf2Multiply2Equal4(){
 		double expected = 4;
 		
 		Operation operation = new Multiplication();
